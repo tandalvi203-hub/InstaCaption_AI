@@ -8,13 +8,12 @@
 
 </div>
 
----
+
 
 ## 🚀 Overview
 
 InstaCaption AI is an AI-powered application that generates engaging, creative, and viral captions from your images. Built using modern AI tools, it simplifies content creation for social media users.
 
----
 
 ## ✨ Features
 
@@ -23,7 +22,7 @@ InstaCaption AI is an AI-powered application that generates engaging, creative, 
 * ⚡ Fast and responsive UI
 * 🎯 Optimized for social media engagement
 * # Hashtag generation
----
+
 
 
 
@@ -31,7 +30,7 @@ InstaCaption AI is an AI-powered application that generates engaging, creative, 
 
 👉 https://ai.studio/apps/07ded8f8-6263-4cda-97fa-83fe0aeec4f5
 
----
+
 
 
 
@@ -41,7 +40,6 @@ InstaCaption AI is an AI-powered application that generates engaging, creative, 
 * Multi-language support
 * Mobile optimization
 
----
 
 ## 🤝 Contributing
 
