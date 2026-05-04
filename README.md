@@ -45,8 +45,7 @@ InstaCaption AI is an AI-powered application that generates engaging, creative, 
 
 Pull requests are welcome. For major changes, open an issue first.
 
----
-
+ 
 ## 📄 License
 
 This project is open-source and available under the MIT License.
