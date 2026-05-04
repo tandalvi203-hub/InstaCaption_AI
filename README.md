@@ -21,7 +21,7 @@ InstaCaption AI is an AI-powered application that generates engaging, creative, 
 * 🤖 AI-generated captions
 * ⚡ Fast and responsive UI
 * 🎯 Optimized for social media engagement
-* # Hashtag generation
+* 🔖 Hashtag generation
 
 
 
